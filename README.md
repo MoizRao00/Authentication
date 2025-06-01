@@ -1,6 +1,6 @@
 # authentication
 
-A new Flutter project.
+A new Flutter project. That is all about authentication firebase
 
 ## Getting Started
 
