@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "631360147517",
+    "project_id": "authentication-fda90",
+    "storage_bucket": "authentication-fda90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631360147517:android:d5cbae2c0a1dbc5f549a54",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631360147517-akffr0n1jun0a3esrp83ib71arnvkcnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentication",
+            "certificate_hash": "572796162f8150c6e8f1947257927a43cf59ad02"
+          }
+        },
+        {
+          "client_id": "631360147517-t9p9i0ec791rigg02oumhv1oufo6poc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2rhjmeaVVRafPGLWOJ-GiibakyTeAepY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631360147517-t9p9i0ec791rigg02oumhv1oufo6poc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
